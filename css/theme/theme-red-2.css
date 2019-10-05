@@ -22,7 +22,8 @@ body ::selection {
   background: #ff4c05;
 }
 .progress-box .progress-bar {
-  background-color: #ff4c05;
+  background-color: #ffffff;
+   //Colour changed to black
 }
 .service-item i {
   color: #ff4c05;
